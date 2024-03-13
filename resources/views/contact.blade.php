@@ -81,7 +81,7 @@
                                         <i class="fa fa-home"></i>
                                     </div>
                                     <div class="cont">
-                                        <p>O'zbekiston Respublikasi, Xorazm viloyati, Shovot tumani, K. Otaniyozov ko'chasi, 65-uy </p>
+                                        <p>Urganch shahar E.Raxim ko`chasi 77-uy</p>
                                     </div>
                                 </div> <!-- singel address -->
                             </li>
@@ -91,25 +91,28 @@
                                         <i class="fa fa-phone"></i>
                                     </div>
                                     <div class="cont">
-                                        <p>+998-(93)-453-28-27</p>
+                                        <p>+998-(62)-224-77-49</p>
                                     </div>
                                 </div> <!-- singel address -->
                             </li>
-                            <li>
-                                <div class="singel-address">
-                                    <div class="icon">
-                                        <i class="fa fa-envelope-o"></i>
-                                    </div>
-                                    <div class="cont">
-                                        <p>al.xorazmiy2021@gmail.com</p>
+{{--                            <li>--}}
+{{--                                <div class="singel-address">--}}
+{{--                                    <div class="icon">--}}
+{{--                                        <i class="fa fa-envelope-o"></i>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="cont">--}}
+{{--                                        <p>al.xorazmiy2021@gmail.com</p>--}}
 
-                                    </div>
-                                </div> <!-- singel address -->
-                            </li>
+{{--                                    </div>--}}
+{{--                                </div> <!-- singel address -->--}}
+{{--                            </li>--}}
                         </ul>
                     </div> <!-- contact address -->
                     <div class="map mt-30">
-                        <div class="mapouter"><div class="gmap_canvas"><iframe width="465" height="200" id="gmap_canvas" src="https://maps.google.com/maps?q=41.659248362871026,%2060.27639777016081&t=k&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123 movies</a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:465px;}</style><a href="https://www.embedgooglemap.net">google maps code</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:465px;}</style></div></div>
+                        <div class="mapouter"><div class="gmap_canvas">
+                                <iframe width="465" height="200" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d915.795084801867!2d60.64264720543358!3d41.56334612213684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfcf1e3c631ceb%3A0xc65b43003a074e2b!2sO&#39;zbekiston%20respublikasi%20Ichki%20ishlar%20vazirligining%20Xorazm%20akademik%20litseyi!5e1!3m2!1sru!2s!4v1710316872560!5m2!1sru!2s" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+{{--                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d915.795084801867!2d60.64264720543358!3d41.56334612213684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfcf1e3c631ceb%3A0xc65b43003a074e2b!2sO&#39;zbekiston%20respublikasi%20Ichki%20ishlar%20vazirligining%20Xorazm%20akademik%20litseyi!5e1!3m2!1sru!2s!4v1710316872560!5m2!1sru!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>--}}
+                                <a href="https://123movies-to.org">123 movies</a><br><style>.mapouter{position:relative;text-align:right;height:200px;width:465px;}</style><a href="https://www.embedgooglemap.net">google maps code</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:465px;}</style></div></div>
                     </div> <!-- map -->
                 </div>
             </div> <!-- row -->

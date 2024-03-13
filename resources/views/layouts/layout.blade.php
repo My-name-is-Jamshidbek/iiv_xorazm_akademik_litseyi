@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>Al-Xorazmiy nomidagi maktab internat</title>
+    <title>O'zbekiston Respublikasi Ichki ishlar vazirligi Xorazm akademik litseyi</title>
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="{{asset('fasset/images/favicon.png')}}" type="image/png">
+    <link rel="shortcut icon" href="{{asset('logo.png')}}" type="image/png">
 
     <!--====== Slick css ======-->
     <link rel="stylesheet" href="{{asset('fasset/css/slick.css')}}">
@@ -76,8 +76,8 @@
             <div class="row">
                 <div class="header-contact  text-center">
                     <ul>
-                        <li><img src="{{asset('fasset/images/all-icon/map.png')}}" alt="icon"><span>O'zbekiston Respublikasi, Xorazm viloyati, Shovot tumani, K. Otaniyozov ko'chasi, 65-uy</span></li>
-                        <li><img src="{{asset('fasset/images/all-icon/email.png')}}" alt="icon"><span>al.xorazmiy2021@gmail.com</span></li>
+                        <li><img src="{{asset('fasset/images/all-icon/map.png')}}" alt="icon"><span>Urganch shahar E.Raxim ko`chasi 77-uy</span></li>
+{{--                        <li><img src="{{asset('fasset/images/all-icon/email.png')}}" alt="icon"><span>al.xorazmiy2021@gmail.com</span></li  Elektron pochta>--}}
                     </ul>
                 </div>
 
@@ -91,8 +91,8 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="logo">
                         <a href="{{route('index')}}">
-                            <img src="{{asset('logo.jpg')}}" align="left" hspace = "5px" width="100px" alt="Logo">
-                            Xorazm viloyat Shovot tumani Al-Xorazmiy nomidagi xalqaro fizika va matematika maktab-internati
+                            <img src="{{asset('logo.png')}}" align="left" hspace = "5px" width="100px" alt="Logo">
+                            O'zbekiston Respublikasi Ichki ishlar vazirligi Xorazm akademik litseyi
                         </a>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                             </div>
                             <div class="cont">
                                 <p>Hoziroq biz bilan bog'laning</p>
-                                <span>+998-(93)-453-28-27</span>
+                                <span>+998-(62)-224-77-49</span>
                             </div>
                         </div>
                         {{--<div class="button float-left">

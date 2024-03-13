@@ -6,9 +6,9 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-about mt-40">
                         <div class="logo">
-                            <a href="#"><img src="{{asset('logo.jpg')}}" width="160px" alt="Logo"></a>
+                            <a href="#"><img src="{{asset('logo.png')}}" width="160px" alt="Logo"></a>
                         </div>
-                        <p> Xorazm viloyat Shovot tumani Al-Xorazmiy nomidagi xalqaro fizika va matematika maktab-internati</p>
+                        <p>O'zbekiston Respublikasi Ichki ishlar vazirligi Xorazm akademik litseyi</p>
                         <ul class="mt-20">
                             <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -50,7 +50,7 @@
                                     <i class="fa fa-home"></i>
                                 </div>
                                 <div class="cont">
-                                    <p>Xorazm vil., Shovot tumani, K. Otaniyozov, 65</p>
+                                    <p>Urganch shahar E.Raxim ko`chasi 77-uy</p>
                                 </div>
                             </li>
                             <li>
@@ -58,17 +58,17 @@
                                     <i class="fa fa-phone"></i>
                                 </div>
                                 <div class="cont">
-                                    <p>+998-(93)-453-28-27</p>
+                                    <p>+998-(62)-224-77-49</p>
                                 </div>
                             </li>
-                            <li>
-                                <div class="icon">
-                                    <i class="fa fa-envelope-o"></i>
-                                </div>
-                                <div class="cont">
-                                    <p>al.xorazmiy2021@gmail.com</p>
-                                </div>
-                            </li>
+{{--                            <li>--}}
+{{--                                <div class="icon">--}}
+{{--                                    <i class="fa fa-envelope-o"></i>--}}
+{{--                                </div>--}}
+{{--                                <div class="cont">--}}
+{{--                                    <p>al.xorazmiy2021@gmail.com</p>--}}
+{{--                                </div>--}}
+{{--                            </li>-- elektron pochta--}}
                         </ul>
                     </div> <!-- footer address -->
                 </div>
@@ -76,22 +76,22 @@
         </div> <!-- container -->
     </div> <!-- footer top -->
 
-    <div class="footer-copyright pt-10 pb-25">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <div class="copyright text-md-left text-center pt-15">
-                        <p><a target="_blank" href="https://www.w3soft.uz">w3soft.uz</a> </p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="copyright text-md-right text-center pt-15">
+{{--    <div class="footer-copyright pt-10 pb-25">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-md-8">--}}
+{{--                    <div class="copyright text-md-left text-center pt-15">--}}
+{{--                        <p><a target="_blank" href="https://www.w3soft.uz">w3soft.uz</a> </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-4">--}}
+{{--                    <div class="copyright text-md-right text-center pt-15">--}}
 
-                    </div>
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </div> <!-- footer copyright -->
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div> <!-- row -->--}}
+{{--        </div> <!-- container -->--}}
+{{--    </div> <!-- footer copyright -->--}}
 </footer>
 
 <!--====== FOOTER PART ENDS ======-->
