@@ -21,10 +21,11 @@ Route::get('/certificate', [App\Http\Controllers\CertificateController::class, '
 Route::get('/veterans', [App\Http\Controllers\VeteranController::class, 'veterans'])->name('veterans');
 Route::get('/veterans/{veteran}', [App\Http\Controllers\VeteranController::class, 'show'])->name('veteran');
 Route::view('/about','about')->name('about');
-Route::view('/director','director')->name('director');
-Route::view('/spirituality','spirit')->name('spirit');
-Route::view('/train','train')->name('train');
-Route::view('/special','special')->name('special');
+Route::view('/structure','structure')->name('structure');
+//Route::view('/director','director')->name('director');
+//Route::view('/spirituality','spirit')->name('spirit');
+//Route::view('/train','train')->name('train');
+//Route::view('/special','special')->name('special');
 Route::view('/contact','contact')->name('contact');
 Route::get('/teachers', [App\Http\Controllers\TeacherController::class, 'teachers'])->name('teachers');
 Route::get('/teacher/{teacher}', [App\Http\Controllers\TeacherController::class, 'show'])->name('teacher');

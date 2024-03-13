@@ -31,10 +31,10 @@
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">Biz bilan yuksak cho'qqilarni zabt et</h1>
-                            <ul>
-                                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#">Batafsil</a></li>
-                            </ul>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Litsey fasadi</h1>
+{{--                            <ul>--}}
+{{--                                <li><a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="#">Batafsil</a></li>--}}
+{{--                            </ul>--}}
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">Iqtidoringni namoyon et</h1>    </div>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Litsey foyesi</h1>    </div>
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
@@ -57,7 +57,79 @@
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">Vaqtingni to'g'ri sarfla</h1>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Kampyuter xonasi</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide4.jpg')}})" data-overlay="4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">O`quv xonasi</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide5.jpg')}})" data-overlay="5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Sport zali</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide6.jpg')}})" data-overlay="6">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Trenajyor xonasi</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide7.jpg')}})" data-overlay="7">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">O`quv xonasi</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide8.jpg')}})" data-overlay="8">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">O`quvchilar oshxonasi</h1>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url({{asset('fasset/images/slide9.jpg')}})" data-overlay="9">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont">
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Litsey xovlisi</h1>
                         </div>
                     </div>
                 </div> <!-- row -->
