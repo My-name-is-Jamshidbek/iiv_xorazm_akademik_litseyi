@@ -105,7 +105,7 @@
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">O`quv xonasi</h1>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Yotoq xonasi</h1>
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -240,11 +240,11 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="section-title mt-50">
-                        <h5>Biz haqimizda</h5>
-                        <h2>Maktab madhiyasi</h2>
+{{--                        <h5>Biz haqimizda</h5>--}}
+                        <h2>O`zbekiston respublikasi madhiyasi</h2>
                     </div> <!-- section title -->
-                    <div class="about-cont">
-                        <p>
+                    <div class="about-cont ">
+                        <p class="">
                             Serquyosh, hur o‘lkam, elga baxt, najot,
                             <br>
                             Sen o‘zing do‘stlarga yo‘ldosh, mehribon!
@@ -287,13 +287,13 @@
                         <div class="event-title">
                             <h3>Maktab emblemasi</h3>
                         </div> <!-- event title -->
-                        <img src="{{asset('logo.png')}}" alt="Emblema"><br>
+                        <img src="{{asset('logo.png')}}" alt="Emblema" width="400px"><br>
                     </div> <!-- about event -->
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
         <div class="about-bg">
-            <img src="{{asset('fasset/images/about/bg-1.png')}}" alt="About">
+{{--            <img src="{{asset('logo.png')}}"  class="p-1"  alt="About">--}}
         </div>
     </section>
 
@@ -532,7 +532,7 @@
 
     <!--====== VIDEO FEATURE PART START ======-->
 
-    <section id="video-feature" class="bg_cover pt-60 pb-110" style="background-image: url({{asset('fasset/images/school1.jpg')}})">
+    <section id="video-feature" class="bg_cover pt-60 pb-110" style="background-image: url({{asset('fasset/images/slide1.jpg')}})">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 order-last order-lg-first">
