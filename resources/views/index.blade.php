@@ -207,7 +207,7 @@
                                             <img src="{{asset('fasset/images/all-icon/ctg-2.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Matematika</span>
+                                            <span>Biologiya</span>
                                         </span>
                                     </span> <!-- singel category -->
                                 </a>
@@ -775,44 +775,7 @@
     <!--====== TEASTIMONIAL PART START ======-->
     <!--====== TEASTIMONIAL PART ENDS ======-->
 
-    <!--====== NEWS PART START ======-->
-
-    <section id="news-part" class="pt-115 pb-110">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="section-title pb-50">
-                        <h5>So'ngi yangiliklar</h5>
-                        <h2>Yangiliklar</h2>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row">
-
-                @foreach($posts as $new)
-                <div class="col">
-                    <div class="singel-news mt-30">
-                        <div class="news-thum pb-25">
-                            <img src="{{asset('/storage/posts/' . $new->img)}}"  alt="News">
-                        </div>
-                        <div class="news-cont">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-calendar"></i> {{$new->created_at->format('d.m.Y')}} </a></li>
-                            </ul>
-                            <a href="{{route('news-item' , $new->id)}}"><h3>{{$new->header}}</h3></a>
-                            <p>{{ \Illuminate\Support\Str::limit($new->description, 250, '...') }}</p>
-                        </div>
-                    </div> <!-- singel news -->
-                </div>
-                    @endforeach
-
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== NEWS PART ENDS ======-->
-
+ 
     <!--====== PATNAR LOGO PART START ======-->
 
     <div id="patnar-logo" class="pt-40 pb-80 gray-bg">
